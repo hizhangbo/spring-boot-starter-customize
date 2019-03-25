@@ -22,3 +22,5 @@
 # 自动配置类需配置在下面的文件中
 META-INF/spring.factories
 ```
+
+[Demo](https://github.com/eugenp/tutorials/tree/master/spring-boot-custom-starter)
