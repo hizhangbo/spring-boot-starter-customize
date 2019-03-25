@@ -23,7 +23,7 @@
 META-INF/spring.factories
 ```
 
-[Demo](https://github.com/eugenp/tutorials/tree/master/spring-boot-custom-starter)
-[Tutorials](https://docs.spring.io/spring-boot/docs/current/reference/html/boot-features-developing-auto-configuration.html)
-[SpringBoot自动配置原理](http://www.importnew.com/30599.html)
+[Demo](https://github.com/eugenp/tutorials/tree/master/spring-boot-custom-starter)  
+[Tutorials](https://docs.spring.io/spring-boot/docs/current/reference/html/boot-features-developing-auto-configuration.html)  
+[SpringBoot自动配置原理](http://www.importnew.com/30599.html)  
 [SpringBoot自定义Starter](http://www.importnew.com/30610.html)
