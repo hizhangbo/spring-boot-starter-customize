@@ -24,3 +24,4 @@ META-INF/spring.factories
 ```
 
 [Demo](https://github.com/eugenp/tutorials/tree/master/spring-boot-custom-starter)
+[Tutorials](https://docs.spring.io/spring-boot/docs/current/reference/html/boot-features-developing-auto-configuration.html)
